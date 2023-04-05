@@ -1,0 +1,297 @@
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\bomberman\maozi\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\hsc73\OneDrive\桌面\maozi4\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi5\maozi5\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\bomberman\maozi6\maozi6\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\Ethan\OneDrive - The Chinese University of Hong Kong\Desktop\3080\maozi_half_final\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\bomberman\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\管老师\Desktop\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe.config
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\bin\Debug\Bombermen.pdb
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.g.cs
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.g.cs
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Main.g.cs
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.g.cs
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.g.cs
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\App.g.cs
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.cache
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen_MarkupCompile.lref
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Choose_Window.baml
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Construct_Window.baml
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Main.baml
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Menu.baml
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Tasks_Window.baml
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.g.resources
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.Properties.Resources.resources
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.GenerateResource.cache
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bomberman.csproj.CopyComplete
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.exe
+C:\Users\陈臻\Desktop\cuhk class sem6\bomberman\bomber\Bomberman_WPF-master\Bombermen\obj\Debug\Bombermen.pdb
