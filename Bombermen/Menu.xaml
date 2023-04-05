@@ -1,0 +1,24 @@
+﻿<Window x:Class="Bombermen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bombermen"
+        mc:Ignorable="d"
+        Title="Menu" Height="536" Width="1024" WindowStartupLocation="CenterScreen" >
+    <Grid Margin="0,0,0,-5"  >
+        <Image HorizontalAlignment="Center" Height="537" VerticalAlignment="Top" Width="1024" Source="/background.png"/>
+        <Label Content="Play" HorizontalAlignment="Left" Height="75" Margin="234,176,0,0" VerticalAlignment="Top" Width="90" Foreground="#FFFFFF0B" FontSize="40" MouseEnter="Play_focus" MouseLeave="Play_leave" MouseDown="Play_Click" />
+        <Label Content="Exit" HorizontalAlignment="Left" Height="75" Margin="234,270,0,0" VerticalAlignment="Top" Width="80" Foreground="#FFFFFF0B" FontSize="40" MouseEnter="Exit_focus" MouseLeave="Exit_leave" MouseDown="Exit_Click"/>
+        <Ellipse x:Name="first" Margin="185,192,795,290" />
+        <Ellipse x:Name="fourth" Margin="185,286,795,197" />
+        <Label Content="Boomberman" HorizontalAlignment="Left" Margin="138,35,0,0" VerticalAlignment="Top" Height="65" Width="283" FontSize="40" Foreground="#FFFFFF0B" FontWeight="Bold">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+
+
+
+    </Grid>
+</Window>
